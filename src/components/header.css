@@ -15,3 +15,7 @@
     position:sticky;
     z-index: 9000;
 }
+.background{
+    background-color: white;
+    margin: 0;
+}
